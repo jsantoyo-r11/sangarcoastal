@@ -1,0 +1,5 @@
+.DS_Store
+# Network Solutions-only files (legacy host); not needed on GitHub Pages
+publish.sh
+publish-sftp.sh
+docs/.htaccess
